@@ -1,0 +1,165 @@
+Create a professional, text-free infographic illustration about “truyền đạt các thông tin chính: khái niệm, quy định nổi bật, điểm mới hoặc lưu ý quan trọng, quyền/nghĩa vụ liên quan đến Luật bảo vệ dữ liệu cá nhân trong thời đại chuyển đổi số”, following these specifications:
+
+- Layout size: 7874 x 3937 pixels (2m wide x 1m tall)
+- Format: PNG, high resolution, suitable for outdoor print
+- No text or labels anywhere in the image
+- Include clear empty spaces in each visual section for adding text later
+- Visual style: clean, modern, vector-like illustration, consistent color palette
+- Use dynamic composition with icons, people, data shapes, arrows, charts, or maps — depending on the topic
+- Lighting should be even and bright, colors vivid but balanced (suitable for printing)
+- Maintain a visually clear hierarchy — large header area at top, balanced middle sections, footer zone
+- Leave a margin around the edges for safe print trimming
+
+Below is the visual composition plan and style to follow:
+
+
+
+
+Dưới đây là kế hoạch hoàn chỉnh cho infographic khổ lớn (2m x 1m).
+
+
+---
+
+
+### **1. Ý Tưởng Tiêu Đề Chính Cho Infographic**
+
+
+*   **Dữ Liệu Cá Nhân: Hiểu Đúng Luật - Sống An Toàn Số**
+
+
+---
+
+
+### **2. Bố Cục Chi Tiết Từng Phân Khu (Section-by-Section Layout)**
+
+
+Infographic sẽ được chia thành 5 phân khu chính, sắp xếp theo luồng đọc tự nhiên từ trái sang phải, từ trên xuống dưới trên khổ ngang 2m x 1m.
+
+
+#### **Phân khu 1: KHÁI NIỆM CỐT LÕI**
+*   **Tiêu đề gợi ý:** Dữ Liệu Cá Nhân Là Gì?
+*   **Tóm tắt (1 câu):** Phân biệt hai loại dữ liệu cơ bản và nhạy cảm mà luật pháp bảo vệ.
+*   **Ý tưởng hình ảnh (Visual concept):**
+    *   Một hình minh họa lớn ở trung tâm mô tả một người dùng (dạng silhouette hoặc cách điệu) được bao quanh bởi một vòng tròn bảo vệ kỹ thuật số.
+    *   Từ hình ảnh trung tâm, hai nhánh tỏa ra:
+        *   **Nhánh 1 (Dữ liệu cơ bản):** Chỉ vào một cụm icon đơn giản như: thẻ CCCD, điện thoại, email. Bên cạnh cụm này là một **vùng trống lớn** để chèn text giải thích.
+        *   **Nhánh 2 (Dữ liệu nhạy cảm):** Chỉ vào một cụm icon có màu sắc nổi bật hơn (ví dụ: màu cảnh báo) như: vân tay, biểu tượng sức khỏe (chữ thập), biểu tượng ngân hàng. Bên cạnh cụm này cũng là một **vùng trống lớn** để chèn text.
+
+
+#### **Phân khu 2: QUYỀN LỢI CỦA BẠN**
+*   **Tiêu đề gợi ý:** Quyền Của Bạn Với Dữ Liệu
+*   **Tóm tắt (1 câu):** Giới thiệu 5 quyền năng quan trọng nhất mà mỗi công dân có để kiểm soát thông tin cá nhân của mình.
+*   **Ý tưởng hình ảnh (Visual concept):**
+    *   Sử dụng hình ảnh trung tâm là một chiếc khiên lớn, vững chãi, biểu tượng cho sự bảo vệ.
+    *   Xung quanh chiếc khiên, bố trí 5 vòng tròn nhỏ, mỗi vòng tròn chứa một icon đại diện cho một quyền:
+        *   **Được biết:** Icon con mắt.
+        *   **Đồng ý:** Icon dấu tick trong ô vuông.
+        *   **Truy cập & Chỉnh sửa:** Icon cây bút chì.
+        *   **Xóa bỏ:** Icon thùng rác.
+        *   **Khiếu nại:** Icon cái búa của thẩm phán.
+    *   Mỗi vòng tròn sẽ có một **khoảng trống bên cạnh** để điền nội dung chi tiết.
+
+
+#### **Phân khu 3: TRÁCH NHIỆM ĐI KÈM**
+*   **Tiêu đề gợi ý:** Nghĩa Vụ Của Chủ Dữ Liệu
+*   **Tóm tắt (1 câu):** Nêu bật ba trách nhiệm chính của mỗi cá nhân trong việc bảo vệ dữ liệu của mình và của người khác.
+*   **Ý tưởng hình ảnh (Visual concept):**
+    *   Đây là một phân khu nhỏ hơn, nằm cạnh Phân khu 2 để tạo sự cân bằng "Quyền & Nghĩa vụ".
+    *   Sử dụng một hình ảnh minh họa một người đang cầm một danh sách kiểm tra (checklist).
+    *   Bên cạnh là 3 icon được xếp theo chiều dọc, mỗi icon tương ứng với một nghĩa vụ:
+        *   **Tự bảo vệ:** Icon ổ khóa.
+        *   **Tôn trọng người khác:** Icon hai người bắt tay.
+        *   **Cung cấp chính xác:** Icon tài liệu có dấu tick.
+    *   Mỗi icon có **một vùng trống nhỏ** dành cho văn bản.
+
+
+#### **Phân khu 4: ĐIỂM SÁNG CỦA LUẬT MỚI**
+*   **Tiêu đề gợi ý:** 5 Điểm Mới Cần Ghi Nhớ
+*   **Tóm tắt (1 câu):** Nhấn mạnh những quy định nổi bật và có tác động mạnh mẽ nhất của luật, từ sự đồng ý đến chế tài xử phạt.
+*   **Ý tưởng hình ảnh (Visual concept):**
+    *   Thiết kế dạng dòng thời gian hoặc một chuỗi 5 "thẻ thông tin" (cards) được đánh số nổi bật từ 1 đến 5.
+    *   Mỗi thẻ sẽ có một icon lớn và một **khu vực trống** để điền text:
+        1.  **"Im lặng không là đồng ý":** Icon một bàn tay đang chủ động tick vào một ô trống.
+        2.  **Chế tài nặng:** Icon một chiếc cân công lý với một bên là túi tiền lớn.
+        3.  **Bảo vệ trẻ em:** Icon một người lớn che ô cho một đứa trẻ.
+        4.  **Dữ liệu xuyên biên giới:** Icon quả địa cầu với các đường kết nối và lá cờ Việt Nam ở một điểm.
+        5.  **Thông báo trong 72h:** Icon một chiếc đồng hồ báo thức đang reo với ký hiệu "72h".
+
+
+#### **Phân khu 5: NHỮNG ĐIỀU TUYỆT ĐỐI CẤM**
+*   **Tiêu đề gợi ý:** Các Hành Vi Bị Nghiêm Cấm
+*   **Tóm tắt (1 câu):** Liệt kê các hành vi vi phạm pháp luật nghiêm trọng nhất về dữ liệu cá nhân.
+*   **Ý tưởng hình ảnh (Visual concept):**
+    *   Sử dụng một dấu "X" lớn màu đỏ hoặc một biển báo cấm làm nền cho khu vực này để tạo cảm giác cảnh báo mạnh mẽ.
+    *   Xung quanh là các icon minh họa cho hành vi bị cấm, tất cả đều có một đường gạch chéo đỏ đè lên:
+        *   Icon hai bàn tay trao đổi dữ liệu và tiền (Mua, bán).
+        *   Icon một tài liệu bị sử dụng sai mục đích (mũi tên chỉ chệch hướng).
+        *   Icon một máy chủ hoặc ổ khóa bị phá vỡ (Làm lộ, lọt).
+    *   Bên dưới cụm icon là một **khối trống lớn** để đặt ví dụ minh họa và nội dung chi tiết.
+
+
+---
+
+
+### **3. Bảng Màu và Phong Cách Thiết Kế Gợi Ý**
+
+
+*   **Bảng màu (Color Palette):**
+    *   **Màu chủ đạo (Trust & Technology):** Xanh dương đậm (#0A4DAA), Xanh dương nhạt (#4D88FF).
+    *   **Màu nhấn (Action & Rights):** Xanh ngọc (#00BFA5), Vàng cam (#FFB300).
+    *   **Màu cảnh báo (Warning & Prohibition):** Đỏ san hô (#FF4D4F).
+    *   **Màu nền & trung tính:** Trắng (#FFFFFF), Xám rất nhạt (#F5F7FA).
+*   **Phong cách icon/minh họa (Style Keywords):**
+    *   **Flat Vector & Modern Corporate:** Sử dụng các hình ảnh dạng vector phẳng, đường nét sạch sẽ, không đổ bóng, màu sắc đơn giản. Phong cách này tạo cảm giác hiện đại, chuyên nghiệp, dễ hiểu và không bị rối mắt trên một khổ in lớn.
+
+
+---
+
+
+### **4. Hướng Dẫn Bố Cục Tổng Thể (Composition Guide)**
+
+
+Bố cục được thiết kế cho khổ ngang 2m x 1m, ưu tiên luồng đọc từ trái qua phải và tạo ra sự cân đối về mặt thị giác.
+
+
+*   **Phần trên (Top Row - chiếm khoảng 55% chiều cao):**
+    *   **Góc trên cùng, bên trái:** Tiêu đề chính của infographic.
+    *   **Bên trái (chiếm ~30% chiều rộng):** **Phân khu 1 (Khái niệm)**, với hình ảnh người dùng ở trung tâm.
+    *   **Ở giữa (chiếm ~40% chiều rộng):** **Phân khu 2 (Quyền lợi)**, với biểu tượng chiếc khiên lớn làm điểm nhấn.
+    *   **Bên phải (chiếm ~30% chiều rộng):** **Phân khu 3 (Nghĩa vụ)**, thiết kế nhỏ gọn hơn để cân bằng với Phân khu 2.
+*   **Phần dưới (Bottom Row - chiếm khoảng 45% chiều cao):**
+    *   **Bên trái (chiếm ~60% chiều rộng):** **Phân khu 4 (Điểm mới)**, trình bày dưới dạng 5 thẻ thông tin trực quan, chiếm nhiều không gian nhất vì đây là phần nội dung quan trọng và nhiều chi tiết.
+    *   **Bên phải (chiếm ~40% chiều rộng):** **Phân khu 5 (Hành vi cấm)**, sử dụng màu đỏ nổi bật để thu hút sự chú ý.
+*   **Góc dưới cùng, bên phải:** Chừa một khoảng trống nhỏ cho lời kêu gọi hành động (Call-to-action) và logo (nếu có).
+*   **Không gian trống (White Space):** Đảm bảo có khoảng cách rộng rãi giữa các phân khu và xung quanh các cụm text/icon để infographic "dễ thở", không gây cảm giác ngột ngạt thông tin.
+
+
+bộ công an quản lí vneid
+
+chuyển đổi số, dịch vụ hành chính công, rút gon thời gian làm thủ tục, hướng tới quản lí dịch vụ chính sách thông báo qua nền tảng số
+trẻ em người mất hành vi năng lực nhận thức: 
+là tầng lớp dễ tổn thương nhất trong xã hội
+càng nhiều các vụ việc lợi dụng mxh để lừa đảo gây hại cho trẻ em
+tuyển dụng quản lí và sử dụng người lao động:
+người lao động có thể bị mất thông tin tuyển dụng 
+thông tin sức khỏe trong kinh doanh bảo hiểm
+tài chính ngân hàng thanh toán tín dụng sơ hở khi không bảo vệ dữ liệu cá nhân dễ làm miếng mồi ngon cho tín dụng đen, hiện tại các ngân hàng vẫn đang chia sẻ kho dữ liệu CIC về đánh giá mức độ tín dụng của từng cá nhân?
+dịch vụ quảng cáo thu thập dữ liệu cá nhân để tiến hành chạy quảng cáo theo nhu cầu người dùng.
+Nền tảng mạng xã hội và dịch vụ công trực tuyến dựa vào hành vi và thói quen của người dùng nền tảng sẽ tiến hành chạy hệ thống recommend system theo nội dung tìm kiếm cần có các cơ chế bảo vệ nền tảng mạng xã hội để tránh các hành vi bạo lực gây rối, lừa đảo trên không gian mạng và buôn bán người.
+Xử lí dữ liệu lớn trí tuệ nhân tạo, vũ trụ ảo và điện toán đám mây, chuỗi khối, việc phát triển của các mô hình AI phụ thuộc rất nhiều vào kho dữ liệu training, các model AI hiện tại đang có tính thiên kiến và dễ gây sai lệch nội dung vì phụ thuộc vào nguồn dữ liệu training.
+Các nền tảng AI nếu không được kiểm duyệt nội dung kĩ càng có thể gây ảnh hưởng lớn đến tình hình an ninh cũng như văn hóa lối sống của nước ta.
+
+Sinh trắc học: các dữ liệu sinh trắc học đảm bảo tuyệt đối bí mật dữ liệu về mống mắt là đầu vào cho các ứng dụng deepfake giả dạng nên cần được bảo vệ tuyệt đối. Các dữ liệu từ camera gia đình từ các hãng nước ngoài các thiết bị Iot dễ thu thập thông tin, dữ liệu để đe dọa các cá nhân bị lộ dữ liệu dưới dạng hình ảnh video nhạy cảm sử dụng AI cắt ghép, dễ gây mất an toàn an ninh UAV. 
+
+Ghi âm và ghi hình tại nơi công cộng và hoạt động công cộng: cần kiểm duyệt tránh để các đối tượng chống phá có cơ hội xuyên tạc về chính sách của đảng và nhà nước.
+
+Thực trạng lừa đảo qua không gian mạng các cuộc gọi lừa tiền, giả danh các đơn vị chức năng cần bảo vệ dữ liệu người dùng để tránh các tội phạm lừa đảo qua không gian mạng, các trung tâm dữ liệu tăng tính bảo mật để tránh mã độc và tấn công (thực trạng thế giới đối với cả nhiều quốc gia phát triển). 
+
+Các đối tượng liên quan:
+cá nhân sở hữu dữ liệu
+cơ quan thực hiện trách nhiệm quản lí và bảo vệ dữ liệu cá nhân - bộ công an/các cơ quan đoàn thể bộ ban ngành phụ trách bảo vệ dữ liệu cá nhân theo lĩnh vực chuyên môn
+cơ quan đơn vị nước ngoài sử dụng dữ liệu cá nhân của người Việt Nam
+chuyển dữ liệu xuyên biên giới
+
+
+Final output: a single wide-format infographic scene that visually summarizes “truyền đạt các thông tin chính: khái niệm, quy định nổi bật, điểm mới hoặc lưu ý quan trọng, quyền/nghĩa vụ liên quan đến Luật bảo vệ dữ liệu cá nhân trong thời đại chuyển đổi số” without any text.
