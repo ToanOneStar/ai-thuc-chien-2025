@@ -1,4 +1,10 @@
 Create a professional, text-free infographic illustration about “truyền đạt các thông tin chính: khái niệm, quy định nổi bật, điểm mới hoặc lưu ý quan trọng, quyền/nghĩa vụ liên quan đến Luật bảo vệ dữ liệu cá nhân trong thời đại chuyển đổi số”, following these specifications:
+- Theme: Propaganda, raising awareness.
+Style: Infographic, propaganda-like but modern and optimistic.
+Main colors: Red, Yellow, Blue. This is a strong, prominent and familiar color scheme (Red-Yellow is the color of the flag, Blue is the color of hope, technology).
+Vietnamese elements: Red flag with yellow star, lotus, people, landscape (urban & rural).
+Target: All ages, especially those with little contact with the law.
+Required element: Citizen Identification Card (CCCD) with chip.
 
 - Layout size: 7874 x 3937 pixels (2m wide x 1m tall)
 - Format: PNG, high resolution, suitable for outdoor print

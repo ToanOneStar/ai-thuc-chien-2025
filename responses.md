@@ -1,101 +1,84 @@
-Chắc chắn rồi! Với vai trò là một chuyên gia thiết kế nội dung infographic, tôi sẽ xây dựng một kế hoạch chi tiết, trực quan và chuyên nghiệp dựa trên nội dung bạn đã cung cấp.
+Chắc chắn rồi! Dưới đây là các prompt (câu lệnh) được thiết kế để tạo hình ảnh infographic theo đúng yêu cầu của bạn, từ đơn giản đến phức tạp, phù hợp với các công cụ AI tạo ảnh như Midjourney, DALL-E 3, Leonardo.AI...
 
-Dưới đây là kế hoạch hoàn chỉnh cho infographic khổ lớn (2m x 1m).
-
----
-
-### **1. Ý Tưởng Tiêu Đề Chính Cho Infographic**
-
-*   **Dữ Liệu Cá Nhân: Hiểu Đúng Luật - Sống An Toàn Số**
+Các prompt này tập trung vào việc truyền tải thông điệp một cách trực quan, dễ hiểu, đặc biệt cho những người ít tiếp xúc với pháp luật.
 
 ---
 
-### **2. Bố Cục Chi Tiết Từng Phân Khu (Section-by-Section Layout)**
-
-Infographic sẽ được chia thành 5 phân khu chính, sắp xếp theo luồng đọc tự nhiên từ trái sang phải, từ trên xuống dưới trên khổ ngang 2m x 1m.
-
-#### **Phân khu 1: KHÁI NIỆM CỐT LÕI**
-*   **Tiêu đề gợi ý:** Dữ Liệu Cá Nhân Là Gì?
-*   **Tóm tắt (1 câu):** Phân biệt hai loại dữ liệu cơ bản và nhạy cảm mà luật pháp bảo vệ.
-*   **Ý tưởng hình ảnh (Visual concept):**
-    *   Một hình minh họa lớn ở trung tâm mô tả một người dùng (dạng silhouette hoặc cách điệu) được bao quanh bởi một vòng tròn bảo vệ kỹ thuật số.
-    *   Từ hình ảnh trung tâm, hai nhánh tỏa ra:
-        *   **Nhánh 1 (Dữ liệu cơ bản):** Chỉ vào một cụm icon đơn giản như: thẻ CCCD, điện thoại, email. Bên cạnh cụm này là một **vùng trống lớn** để chèn text giải thích.
-        *   **Nhánh 2 (Dữ liệu nhạy cảm):** Chỉ vào một cụm icon có màu sắc nổi bật hơn (ví dụ: màu cảnh báo) như: vân tay, biểu tượng sức khỏe (chữ thập), biểu tượng ngân hàng. Bên cạnh cụm này cũng là một **vùng trống lớn** để chèn text.
-
-#### **Phân khu 2: QUYỀN LỢI CỦA BẠN**
-*   **Tiêu đề gợi ý:** Quyền Của Bạn Với Dữ Liệu
-*   **Tóm tắt (1 câu):** Giới thiệu 5 quyền năng quan trọng nhất mà mỗi công dân có để kiểm soát thông tin cá nhân của mình.
-*   **Ý tưởng hình ảnh (Visual concept):**
-    *   Sử dụng hình ảnh trung tâm là một chiếc khiên lớn, vững chãi, biểu tượng cho sự bảo vệ.
-    *   Xung quanh chiếc khiên, bố trí 5 vòng tròn nhỏ, mỗi vòng tròn chứa một icon đại diện cho một quyền:
-        *   **Được biết:** Icon con mắt.
-        *   **Đồng ý:** Icon dấu tick trong ô vuông.
-        *   **Truy cập & Chỉnh sửa:** Icon cây bút chì.
-        *   **Xóa bỏ:** Icon thùng rác.
-        *   **Khiếu nại:** Icon cái búa của thẩm phán.
-    *   Mỗi vòng tròn sẽ có một **khoảng trống bên cạnh** để điền nội dung chi tiết.
-
-#### **Phân khu 3: TRÁCH NHIỆM ĐI KÈM**
-*   **Tiêu đề gợi ý:** Nghĩa Vụ Của Chủ Dữ Liệu
-*   **Tóm tắt (1 câu):** Nêu bật ba trách nhiệm chính của mỗi cá nhân trong việc bảo vệ dữ liệu của mình và của người khác.
-*   **Ý tưởng hình ảnh (Visual concept):**
-    *   Đây là một phân khu nhỏ hơn, nằm cạnh Phân khu 2 để tạo sự cân bằng "Quyền & Nghĩa vụ".
-    *   Sử dụng một hình ảnh minh họa một người đang cầm một danh sách kiểm tra (checklist).
-    *   Bên cạnh là 3 icon được xếp theo chiều dọc, mỗi icon tương ứng với một nghĩa vụ:
-        *   **Tự bảo vệ:** Icon ổ khóa.
-        *   **Tôn trọng người khác:** Icon hai người bắt tay.
-        *   **Cung cấp chính xác:** Icon tài liệu có dấu tick.
-    *   Mỗi icon có **một vùng trống nhỏ** dành cho văn bản.
-
-#### **Phân khu 4: ĐIỂM SÁNG CỦA LUẬT MỚI**
-*   **Tiêu đề gợi ý:** 5 Điểm Mới Cần Ghi Nhớ
-*   **Tóm tắt (1 câu):** Nhấn mạnh những quy định nổi bật và có tác động mạnh mẽ nhất của luật, từ sự đồng ý đến chế tài xử phạt.
-*   **Ý tưởng hình ảnh (Visual concept):**
-    *   Thiết kế dạng dòng thời gian hoặc một chuỗi 5 "thẻ thông tin" (cards) được đánh số nổi bật từ 1 đến 5.
-    *   Mỗi thẻ sẽ có một icon lớn và một **khu vực trống** để điền text:
-        1.  **"Im lặng không là đồng ý":** Icon một bàn tay đang chủ động tick vào một ô trống.
-        2.  **Chế tài nặng:** Icon một chiếc cân công lý với một bên là túi tiền lớn.
-        3.  **Bảo vệ trẻ em:** Icon một người lớn che ô cho một đứa trẻ.
-        4.  **Dữ liệu xuyên biên giới:** Icon quả địa cầu với các đường kết nối và lá cờ Việt Nam ở một điểm.
-        5.  **Thông báo trong 72h:** Icon một chiếc đồng hồ báo thức đang reo với ký hiệu "72h".
-
-#### **Phân khu 5: NHỮNG ĐIỀU TUYỆT ĐỐI CẤM**
-*   **Tiêu đề gợi ý:** Các Hành Vi Bị Nghiêm Cấm
-*   **Tóm tắt (1 câu):** Liệt kê các hành vi vi phạm pháp luật nghiêm trọng nhất về dữ liệu cá nhân.
-*   **Ý tưởng hình ảnh (Visual concept):**
-    *   Sử dụng một dấu "X" lớn màu đỏ hoặc một biển báo cấm làm nền cho khu vực này để tạo cảm giác cảnh báo mạnh mẽ.
-    *   Xung quanh là các icon minh họa cho hành vi bị cấm, tất cả đều có một đường gạch chéo đỏ đè lên:
-        *   Icon hai bàn tay trao đổi dữ liệu và tiền (Mua, bán).
-        *   Icon một tài liệu bị sử dụng sai mục đích (mũi tên chỉ chệch hướng).
-        *   Icon một máy chủ hoặc ổ khóa bị phá vỡ (Làm lộ, lọt).
-    *   Bên dưới cụm icon là một **khối trống lớn** để đặt ví dụ minh họa và nội dung chi tiết.
+### Phân tích yêu cầu:
+*   **Chủ đề:** Tuyên truyền, nâng cao nhận thức.
+*   **Phong cách:** Infographic, có hơi hướng propaganda (cổ động) nhưng hiện đại, lạc quan.
+*   **Màu sắc chủ đạo:** Đỏ, Vàng, Xanh lam. Đây là bộ màu mạnh, nổi bật và quen thuộc (Đỏ-Vàng là màu cờ, Xanh là màu của hy vọng, công nghệ).
+*   **Yếu tố Việt Nam:** Cờ đỏ sao vàng, hoa sen, người dân, cảnh quan (thành thị & nông thôn).
+*   **Đối tượng:** Mọi lứa tuổi, đặc biệt người ít tiếp xúc pháp luật.
+*   **Yếu tố bắt buộc:** Thẻ Căn cước công dân (CCCD) gắn chip.
 
 ---
 
-### **3. Bảng Màu và Phong Cách Thiết Kế Gợi Ý**
+### Prompt 1: Đơn giản và Trực tiếp
 
-*   **Bảng màu (Color Palette):**
-    *   **Màu chủ đạo (Trust & Technology):** Xanh dương đậm (#0A4DAA), Xanh dương nhạt (#4D88FF).
-    *   **Màu nhấn (Action & Rights):** Xanh ngọc (#00BFA5), Vàng cam (#FFB300).
-    *   **Màu cảnh báo (Warning & Prohibition):** Đỏ san hô (#FF4D4F).
-    *   **Màu nền & trung tính:** Trắng (#FFFFFF), Xám rất nhạt (#F5F7FA).
-*   **Phong cách icon/minh họa (Style Keywords):**
-    *   **Flat Vector & Modern Corporate:** Sử dụng các hình ảnh dạng vector phẳng, đường nét sạch sẽ, không đổ bóng, màu sắc đơn giản. Phong cách này tạo cảm giác hiện đại, chuyên nghiệp, dễ hiểu và không bị rối mắt trên một khổ in lớn.
+Prompt này tập trung vào hình ảnh chiếc thẻ CCCD như một chiếc chìa khóa vạn năng, dễ hiểu nhất.
+
+**Tiếng Việt (để bạn tham khảo ý tưởng):**
+> Poster infographic theo phong cách tuyên truyền, nghệ thuật vector phẳng. Trung tâm là một bàn tay đang giơ cao thẻ Căn cước công dân gắn chip của Việt Nam. Chiếc thẻ phát ra ánh sáng, tỏa ra các tia sáng màu vàng kết nối với các biểu tượng đơn giản: bệnh viện, trường học, ngân hàng, tòa nhà chính phủ. Nền poster màu đỏ rực với họa tiết ngôi sao vàng và các đường lượn sóng màu xanh. Hình ảnh rõ ràng, dễ hiểu, không có chi tiết phức tạp.
+
+**Prompt để copy (Tiếng Anh):**
+```
+Infographic poster in propaganda style, flat vector art. In the center, a hand holds up a Vietnamese chip ID card (Can Cuoc Cong Dan). The card is glowing, emitting yellow light rays that connect to simple icons: a hospital, a school, a bank, a government building. The background is a vibrant red with a yellow star pattern and blue wave elements. The image is clean, easy to understand, no complex details, bold outlines. --ar 2:3
+```
+
+**Tại sao prompt này hiệu quả:**
+*   **"Flat vector art"**: Tạo ra hình ảnh đồ họa, sạch sẽ, không bị rối.
+*   **"Hand holds up a Vietnamese chip ID card"**: Hành động rõ ràng, tập trung vào đối tượng chính.
+*   **"Glowing, emitting yellow light rays"**: Tạo cảm giác quan trọng, là trung tâm của mọi thứ.
+*   **"Simple icons"**: Trực quan hóa lợi ích của thẻ CCCD mà không cần chữ.
+*   **"Vibrant red with a yellow star pattern"**: Ngay lập tức gợi liên tưởng đến Việt Nam.
 
 ---
 
-### **4. Hướng Dẫn Bố Cục Tổng Thể (Composition Guide)**
+### Prompt 2: Đoàn kết và Toàn dân
 
-Bố cục được thiết kế cho khổ ngang 2m x 1m, ưu tiên luồng đọc từ trái qua phải và tạo ra sự cân đối về mặt thị giác.
+Prompt này nhấn mạnh rằng CCCD gắn chip dành cho tất cả mọi người, từ thành thị đến nông thôn, từ già đến trẻ.
 
-*   **Phần trên (Top Row - chiếm khoảng 55% chiều cao):**
-    *   **Góc trên cùng, bên trái:** Tiêu đề chính của infographic.
-    *   **Bên trái (chiếm ~30% chiều rộng):** **Phân khu 1 (Khái niệm)**, với hình ảnh người dùng ở trung tâm.
-    *   **Ở giữa (chiếm ~40% chiều rộng):** **Phân khu 2 (Quyền lợi)**, với biểu tượng chiếc khiên lớn làm điểm nhấn.
-    *   **Bên phải (chiếm ~30% chiều rộng):** **Phân khu 3 (Nghĩa vụ)**, thiết kế nhỏ gọn hơn để cân bằng với Phân khu 2.
-*   **Phần dưới (Bottom Row - chiếm khoảng 45% chiều cao):**
-    *   **Bên trái (chiếm ~60% chiều rộng):** **Phân khu 4 (Điểm mới)**, trình bày dưới dạng 5 thẻ thông tin trực quan, chiếm nhiều không gian nhất vì đây là phần nội dung quan trọng và nhiều chi tiết.
-    *   **Bên phải (chiếm ~40% chiều rộng):** **Phân khu 5 (Hành vi cấm)**, sử dụng màu đỏ nổi bật để thu hút sự chú ý.
-*   **Góc dưới cùng, bên phải:** Chừa một khoảng trống nhỏ cho lời kêu gọi hành động (Call-to-action) và logo (nếu có).
-*   **Không gian trống (White Space):** Đảm bảo có khoảng cách rộng rãi giữa các phân khu và xung quanh các cụm text/icon để infographic "dễ thở", không gây cảm giác ngột ngạt thông tin.
+**Tiếng Việt (để bạn tham khảo ý tưởng):**
+> Poster tuyên truyền, phong cách hiện thực xã hội hiện đại. Một gia đình Việt Nam đa thế hệ (ông bà, bố mẹ, con cháu) đang cùng nhau vui vẻ nhìn vào một chiếc thẻ CCCD gắn chip cỡ lớn. Phía sau họ là khung cảnh được chia đôi: một bên là cánh đồng lúa vàng óng, một bên là thành phố hiện đại với các tòa nhà cao tầng màu xanh. Phía trên là bầu trời đỏ với mặt trời là ngôi sao vàng lớn đang tỏa nắng. Bố cục hài hòa, màu sắc chủ đạo: đỏ, vàng, xanh lam.
+
+**Prompt để copy (Tiếng Anh):**
+```
+Propaganda poster, modern social realism style. A multi-generational Vietnamese family (grandparents, parents, children) happily looking together at a large Vietnamese chip ID card. Behind them is a split landscape: one side shows golden rice paddies, the other side shows a modern city with blue skyscrapers. Above them is a red sky with a large yellow sun shaped like a star, radiating light. Harmonious composition, primary colors of red, yellow, and blue. Optimistic and unifying feeling. --ar 2:3
+```
+
+**Tại sao prompt này hiệu quả:**
+*   **"Modern social realism style"**: Gợi cảm giác cổ động quen thuộc nhưng được làm mới, không bị cũ kỹ.
+*   **"Multi-generational Vietnamese family"**: Thể hiện sự đoàn kết, cho thấy chính sách này áp dụng cho mọi người.
+*   **"Split landscape: rice paddies, modern city"**: Tượng trưng cho sự phát triển của Việt Nam, kết nối giữa truyền thống và hiện đại.
+*   **"Optimistic and unifying feeling"**: Truyền tải thông điệp tích cực.
+
+---
+
+### Prompt 3: Công nghệ và Tương lai
+
+Prompt này tập trung vào khía cạnh công nghệ, bảo mật và tương lai số của chiếc thẻ CCCD.
+
+**Tiếng Việt (để bạn tham khảo ý tưởng):**
+> Poster infographic công nghệ, phong cách tương lai. Hình ảnh cận cảnh thẻ CCCD gắn chip của Việt Nam. Từ con chip trên thẻ, các mạch điện tử kỹ thuật số màu xanh lam và vàng tỏa ra, tạo thành một tấm khiên bảo vệ. Xung quanh tấm khiên là các biểu tượng về dữ liệu, an ninh mạng và chính phủ số. Nền là màu đỏ đậm với các họa tiết lưới kỹ thuật số. Cảm giác an toàn, hiện đại và công nghệ cao.
+
+**Prompt để copy (Tiếng Anh):**
+```
+Tech-infographic poster, futuristic style. A close-up shot of a Vietnamese chip ID card. From the microchip on the card, blue and yellow digital circuit lines radiate outwards, forming a protective shield. Around the shield are icons of data, cybersecurity, and digital government. The background is a dark red with a digital grid pattern. A feeling of security, modernity, and high-technology. Clean and sharp. --ar 2:3
+```
+**Tại sao prompt này hiệu quả:**
+*   **"Futuristic style"**: Nhấn mạnh sự tiến bộ, hiện đại hóa.
+*   **"Digital circuit lines radiate outwards, forming a protective shield"**: Hình ảnh hóa một cách mạnh mẽ khái niệm "bảo mật" và "an toàn thông tin".
+*   **"Icons of data, cybersecurity"**: Củng cố thông điệp về chính phủ số và an ninh mạng.
+*   **"Dark red with a digital grid pattern"**: Tạo ra một bối cảnh công nghệ nhưng vẫn giữ được màu sắc chủ đạo.
+
+---
+
+### Lưu ý khi sử dụng:
+
+1.  **Tùy chỉnh:** Bạn có thể thay đổi các chi tiết trong prompt, ví dụ thay "family" (gia đình) bằng "farmer and worker" (nông dân và công nhân) để thay đổi đối tượng.
+2.  **Từ khóa về thẻ CCCD:** Sử dụng `Vietnamese chip ID card` hoặc `Can Cuoc Cong Dan` sẽ giúp AI hiểu rõ hơn về đối tượng cần vẽ. AI có thể không tạo ra hình ảnh chính xác 100% nhưng sẽ nắm bắt được ý tưởng chung.
+3.  **Tỷ lệ khung hình:** Tham số `--ar 2:3` (hoặc `--ar 3:4`) tạo ra ảnh theo chiều dọc, rất phù hợp cho poster.
+4.  **Thêm chữ:** AI tạo ảnh hiện vẫn còn yếu trong việc tạo ra chữ viết có nghĩa. Cách tốt nhất là tạo ra hình ảnh không có chữ, sau đó dùng các phần mềm chỉnh sửa ảnh (như Canva, Photoshop) để thêm tiêu đề và nội dung infographic. Hãy yêu cầu AI "tạo không gian trống cho văn bản" (`with copy space for text`) nếu cần.
+
+Chúc bạn tạo ra những hình ảnh infographic đẹp và ý nghĩa
